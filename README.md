@@ -1,5 +1,3 @@
-<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" style="height:64px;margin-right:32px"/>
-
 # Final Roadmap: BE First Semester (Prep Till March 2026)
 
 Here is your detailed, realistic and **action-based roadmap**â€”balancing your available hours, exams, and internship/job target for BE 1st semester. This plan uses the Droid Dev Hub playlist for Android, and phases DSA/ML smartly.
